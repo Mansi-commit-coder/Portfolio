@@ -972,6 +972,8 @@ header ul a:hover{
 
     .info-cards .card h1{
         font-size: 20px;
+        bottom: 50%;
+
     }
 
     .info-cards .card:nth-child(3) h1{
@@ -1374,4 +1376,5 @@ header ul a:hover{
         font-size: 0.85rem;
     }
 }
+
 
